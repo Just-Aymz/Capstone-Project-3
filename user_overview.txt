@@ -1,0 +1,8 @@
+USER TASKS REPORT
+
+User:                   admin
+Total tasks:            2
+% of all tasks:         100.0%
+% of tasks completed:   50.0%
+% of tasks incomplete:  50.0%
+% of tasks overdue:     50.0%
